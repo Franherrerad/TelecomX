@@ -63,21 +63,5 @@ Este proyecto tiene como objetivo identificar patrones y factores asociados a la
 - Visualizaciones claras que facilitan la toma de decisiones.
 - Recomendaciones accionables para equipos de marketing y fidelización.
 
----
 
-## 👩‍💻 Autora
-
-**Francisca Herrera**  
-Estudiante de Analista Programador | Data Analyst en formación  
-Especializada en limpieza de datos, automatización y visualización  
-[LinkedIn opcional] | [GitHub opcional]
-
----
-
-## 📬 Contacto
-
-¿Tienes sugerencias o quieres colaborar?  
-Puedes escribirme a: `tu_correo@ejemplo.com`
-
----
 
